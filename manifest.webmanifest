@@ -4,6 +4,7 @@
   "name": "dee3 | mixes",
   "scope": "/dee3-mixes",
   "display": "standalone",
+  "id": "/dee3-mixes/index.html",
   "start_url" : "/dee3-mixes/index.html",
   "short_name": "dee3.mixes",
   "theme_color": "#FFF",
