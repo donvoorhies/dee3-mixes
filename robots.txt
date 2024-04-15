@@ -1,0 +1,14 @@
+User-Agent: *
+Disallow: 
+Sitemap: https://dee3-mixes.voorhies.dk/sitemap.xml
+
+#        _
+#       [ ]
+#      (   )
+#       |>|
+#    __/===\__
+#   //| o=o |\\
+# <]  | o=o |  [>
+#     \=====/
+#    / / | \ \
+#   <_________>
