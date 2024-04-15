@@ -1,6 +1,6 @@
 User-Agent: *
 Disallow: 
-Sitemap: https://dee3-mixes.voorhies.dk/sitemap.xml
+Sitemap: https://donvoorhies.github.io/dee3-mixes/sitemap.xml
 
 #        _
 #       [ ]
